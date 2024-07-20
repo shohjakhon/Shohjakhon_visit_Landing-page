@@ -3,3 +3,13 @@ h1{
     color: red;
     background: black;
 }
+h2{
+    font-size: 3rem;
+    color: rgb(255, 131, 131);
+    background: rgb(0, 0, 0);
+}
+p{
+    font-size: 3rem;
+    color: rgb(45, 54, 182);
+    background: rgb(37, 22, 29);
+}
